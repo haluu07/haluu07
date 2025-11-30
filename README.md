@@ -1,109 +1,22 @@
-# 👾 **Hello World! I'm ThanhTrung** 👾
+<h1 align="center">Hi 👋, I'm LUU THE HA</h1>
+<h3 align="center">a passionate Full-Stack Developer who loves building scalable applications and exploring the endless possibilities of technology. I’ve been coding for over X years and currently focusing on creating impactful solutions using .NET Core, Python, and Cloud Technologies.</h3>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Let's%20Build%20Something%20Awesome!&fontSize=70" alt="Header Wave" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haluu07&label=Profile%20views&color=0e75b6&style=flat" alt="haluu07" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haluu07" alt="haluu07" /></a> </p>
 
-### 🔥 **About Me**  
-I’m ThanhTrung, a passionate **Full-Stack Developer** who loves building scalable applications and exploring the endless possibilities of technology. I’ve been coding for over **X years** and currently focusing on creating impactful solutions using **.NET Core**, **Python**, and **Cloud Technologies**.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lưu hà" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lưu hà" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/haluudepzai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/haluudepzai/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/luuha.05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/luuha.05/" height="30" width="40" /></a>
+</p>
 
-- 🎯 **Current Focus:** Building modern web applications with **React.js** and **FastAPI**.
-- 📚 **Learning Next:** Deep diving into **AWS**, **GCP**, and **Machine Learning**.
-- ⚡ **Fun Fact:** I can’t resist tinkering with **AI-powered projects** in my free time! 🤖
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haluu07&show_icons=true&locale=en&layout=compact" alt="haluu07" /></p>
 
-### 🚀 **What I'm Working On**  
-- 🧑‍💻 **Developing** scalable apps using **.NET Core** and **Python**.
-- 🔧 **Exploring** the world of **Cloud Computing (AWS/GCP)** and **DevOps**.
-- 💡 **Collaborating** on AI/ML-based projects to solve real-world problems.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haluu07&show_icons=true&locale=en" alt="haluu07" /></p>
 
----
-
-### 🛠️ **Tech Stack & Tools**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</div>
-
----
-
-### 📈 **GitHub Stats & Achievements**
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThanhTrunggDEV&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhTrunggDEV&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
-  </a>
-</div>
-
----
-
-### 🌟 **Projects to Check Out**
-
-- [**Awesome Web App**](https://github.com/ThanhTrunggDEV/awesome-web-app): A full-stack app with **React** and **Node.js** that lets you track everything in one place.
-- [**AI Chatbot**](https://github.com/ThanhTrunggDEV/ai-chatbot): This chatbot uses **TensorFlow** and **Python** to help you have a conversation with your favorite AI.
-- [**Cloud Deployment System**](https://github.com/ThanhTrunggDEV/cloud-deployment): Automate your deployments on **AWS** and **GCP** with this customizable tool.
-
----
-
-### 💬 **Let's Connect**
-
-I’m always open to new ideas and collaborations, especially around **AI** and **Cloud technologies**. You can connect with me through the following platforms:
-
-<div align="center">
-  <a href="https://github.com/ThanhTrunggDEV">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:trungff07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/nguyễn-thành-trung-4732a8285">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
----
-
-### 🎮 **Fun Stuff**  
-I believe in a good balance between work and play. When I’m not coding, I enjoy playing games, exploring new tech, and constantly learning. Here’s a little **GIF** of me trying to hack some awesome projects!
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</div>
-
----
-
-### 🐍 **Commit Snake** (GitHub Contribution Snake)
-
-Let's keep that streak going! 🚀
-
-<div align="center">
-  <img src="https://github.com/ThanhTrunggDEV/ThanhTrunggDEV/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
-
-### 📅 **Fun Fact**
-I may be a developer by day, but I’m an **AI explorer** and **cloud adventurer** by night. I’m constantly experimenting with new technologies and finding new ways to solve problems. 💡
-
----
-
-**Let’s build something amazing together!**
-
----
-
-#### **Footer:**  
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haluu07&" alt="haluu07" /></p>

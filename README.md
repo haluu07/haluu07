@@ -78,9 +78,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ThanhTrunggDEV&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies"/>
   </a>
-
   <br>
-
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=ThanhTrunggDEV&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" alt="GitHub Streak"/>
   </a>

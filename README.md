@@ -91,7 +91,7 @@
 ### 📈 Biểu Đồ Hoạt Động
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThanhTrunggDEV&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haluu07&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </div>
 
 <br>

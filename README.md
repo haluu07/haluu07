@@ -1,14 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%2C%20World!&fontSize=70" alt="Header Wave" />
-
+ <!-- Ảnh bìa kiểu bo góc mượt mà màu pastel/gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=150&section=header&text=Hello%20There!%20🚀&fontSize=70" />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=I'm+LUU+THE+HA;A+Full-Stack+Developer;Welcome+to+my+Profile" alt="Typing SVG" />
+    <!-- Hiệu ứng chữ gõ đổi 2 màu nổi bật -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=28&pause=1000&color=FF3366&alt_color=33CCFF&center=true&vCenter=true&width=600&lines=I'm+Luu+The+Ha;Full-Stack+Web+Developer;Let's+build+something+amazing+together!" alt="Typing SVG" />
   </a>
   
-  <br>
-
+  <br><br>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=ThanhTrunggDEV&color=F700FF" alt="Profile Views" />
+    <a href="https://github.com/haluu07">
+      <img src="https://komarev.com/ghpvc/?username=ThanhTrunggDEV&label=Profile%20Views&color=ff69b4&style=plastic" alt="Profile Views" />
+    </a>
   </p>
 </div>
 
@@ -43,7 +45,7 @@
 <p align="center">
   <i>Được trang bị những công nghệ hiện đại nhất để biến ý tưởng thành hiện thực.</i>
 </p>
-### 🌐 Ngôn Ngữ & Framework (Core & Frameworks)
+🌐 Ngôn Ngữ & Framework (Core & Frameworks)
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>

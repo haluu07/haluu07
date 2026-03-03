@@ -27,7 +27,7 @@
 
 ---
 
-## 👨‍💻Thành Tích (Achievements)
+## 🏅Thành Tích (Achievements)
 
   🥉Top 3 - OLP'25 - Open Source Hackathon by VAIP 
   <br>

@@ -11,7 +11,7 @@
     <img src="https://komarev.com/ghpvc/?username=ThanhTrunggDEV&color=F700FF" alt="Profile Views" />
   </p>
 </div>
----
+
 
 <h2 align="center">👨‍💻 Về Tôi (About Me)</h2>
 <table>
@@ -31,14 +31,14 @@
     </td>
   </tr>
 </table>
----
+
 <h2 align="center">🏆 Thành Tích Nổi Bật (Achievements)</h2>
 <blockquote align="left">
   <p>🥇 <b>Top 1</b> - <i>AI Application Development for Education</i> (Tổ chức bởi ICTU).</p>
   <p>🥈 <b>Top 2</b> - <i>Northern Mountainous Region Startup Competition</i> (Tổ chức bởi Đại học Thái Nguyên).</p>
   <p>🥉 <b>Top 3</b> - <i>OLP'25: Open Source Hackathon</i> (Tổ chức bởi VAIP).</p>
 </blockquote>
----
+
 <h2 align="center">🚀 Vũ Khí Công Nghệ (Tech Stack)</h2>
 <p align="center">
   <i>Được trang bị những công nghệ hiện đại nhất để biến ý tưởng thành hiện thực.</i>
@@ -52,20 +52,20 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
-### ☁️ Đám Mây & Triển Khai (Cloud & DevOps)
+☁️ Đám Mây & Triển Khai (Cloud & DevOps)
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
 </p>
-### 🗄️ Cơ Sở Dữ Liệu & Công Cụ (Databases & Tools)
+🗄️ Cơ Sở Dữ Liệu & Công Cụ (Databases & Tools)
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman,figma&perline=8" alt="My Skills"/>
 </div>
----
 
-## 📊 Thống Kê Hoạt Động GitHub
+
+📊 Thống Kê Hoạt Động GitHub
 
 <div align="center"
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
@@ -74,8 +74,7 @@
 </div>
 
 <br>
-
-### 📈 Biểu Đồ Hoạt Động
+ 📈 Biểu Đồ Hoạt Động
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haluu07&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
@@ -83,18 +82,17 @@
 
 <br>
 
-### 🐍 Fun Fact: Commit Snake (Hoạt hình Rắn)
+🐍 Fun Fact: Commit Snake (Hoạt hình Rắn)
 
 <div align="center">
   <img src="https://github.com/ThanhTrunggDEV/ThanhTrunggDEV/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
----
 
 <div align="center">
   <br>
   
-  ### ✨ **"The future belongs to those who believe in the beauty of their dreams."**
+✨ **"The future belongs to those who believe in the beauty of their dreams."**
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>

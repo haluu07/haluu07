@@ -30,7 +30,9 @@
 ## 👨‍💻Thành Tích (Achievements)
 
   🥉Top 3 - OLP'25 - Open Source Hackathon by VAIP 
+  <br>
   🥇Top 1 - AI Application Development for Education by ICTU
+  <br>
   🥈Top 2 - Northern Mountainous Region Startup Competition by Thai Nguyen University
 
 ---

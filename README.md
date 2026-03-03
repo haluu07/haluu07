@@ -29,12 +29,9 @@
 
 ## 👨‍💻Thành Tích (Achievements)
 
-  <img width="2560" height="1707" alt="image" src="https://github.com/user-attachments/assets/db052784-55a3-48bc-8a81-d334b76b3127" />
-    --------------------------------------------🥉Top 3 OLP'25 - Open Source Hackathon -------------------------------------
-
-
-  <img width="1366" height="2048" alt="image" src="https://github.com/user-attachments/assets/d45fe04c-79c5-4ddd-be32-6a704a0990e7" />
-    --------------------------------------------🥇Top 1 AI Application Development for Education -------------------------------------
+  🥉Top 3 - OLP'25 - Open Source Hackathon by VAIP 
+  🥇Top 1 - AI Application Development for Education by ICTU
+  🥈Top 2 - Northern Mountainous Region Startup Competition by Thai Nguyen University
 
 ---
 

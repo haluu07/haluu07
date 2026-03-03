@@ -25,12 +25,16 @@
 * 💡 **Mục tiêu tiếp theo:** Nghiên cứu chuyên sâu về **Kiến trúc Cloud (AWS/GCP)** và quy trình **DevOps**.
 * 🤝 **Cơ hội hợp tác:** Tôi luôn sẵn lòng thảo luận về các ý tưởng liên quan đến **Tích hợp AI/ML**.
 
+---
+
 ## 👨‍💻Thành Tích (Achievements)
 
   <img width="2560" height="1707" alt="image" src="https://github.com/user-attachments/assets/db052784-55a3-48bc-8a81-d334b76b3127" />
     --------------------------------------------🥉Top 3 OLP'25 - Open Source Hackathon -------------------------------------
 
 
+  <img width="1366" height="2048" alt="image" src="https://github.com/user-attachments/assets/d45fe04c-79c5-4ddd-be32-6a704a0990e7" />
+    --------------------------------------------🥇Top 1 AI Application Development for Education -------------------------------------
 
 ---
 
@@ -81,11 +85,7 @@
 
 ## 📊 Thống Kê Hoạt Động GitHub
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ThanhTrunggDEV&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies"/>
-  </a>
-  <br>
+<div align="center"
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=ThanhTrunggDEV&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" alt="GitHub Streak"/>
   </a>

@@ -1,18 +1,26 @@
 <div align="center">
- <!-- Ảnh bìa kiểu bo góc mượt mà màu pastel/gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=150&section=header&text=Hello%20There!%20🚀&fontSize=70" />
+  <!-- Ảnh bìa trong suốt nhưng chữ được làm đậm, có viền nét mờ (stroke) để nổi trên mọi nền. 
+       Màu gradient 'timeGradient' đổi màu liên tục theo thời gian thực -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Welcome%20To%20My%20Space%20✨&fontSize=65&fontColor=ffffff&stroke=000000&strokeWidth=2&animation=fadeIn" alt="Header Text" />
+  
+  <br>
+
   <a href="https://git.io/typing-svg">
-    <!-- Hiệu ứng chữ gõ đổi 2 màu nổi bật -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=28&pause=1000&color=FF3366&alt_color=33CCFF&center=true&vCenter=true&width=600&lines=I'm+Luu+The+Ha;Full-Stack+Web+Developer;Let's+build+something+amazing+together!" alt="Typing SVG" />
+    <!-- Hiệu ứng chữ gõ: dùng font Fira Code (chuẩn dân dev), viền ngoài, 2 dải màu gradient cực mượt Xanh Cyan & Tím Đậm -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&alt_color=B026FF&center=true&vCenter=true&width=600&lines=I'm+Luu+The+Ha;Full-Stack+Web+Developer;Crafting+Code,+Creating+Value;Let's+build+something+amazing!" alt="Typing SVG" />
   </a>
   
   <br><br>
+
   <p>
+     <p>
     <a href="https://github.com/haluu07">
       <img src="https://komarev.com/ghpvc/?username=ThanhTrunggDEV&label=Profile%20Views&color=ff69b4&style=plastic" alt="Profile Views" />
     </a>
   </p>
 </div>
+</div>
+
 
 
 <h2>👨‍💻 Về Tôi (About Me)</h2>

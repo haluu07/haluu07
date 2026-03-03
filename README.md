@@ -15,7 +15,7 @@
 </div>
 
 
-<h2 align="center">👨‍💻 Về Tôi (About Me)</h2>
+<h2>👨‍💻 Về Tôi (About Me)</h2>
 <table>
   <tr>
     <td width="60%">
@@ -34,14 +34,14 @@
   </tr>
 </table>
 
-<h2 align="center">🏆 Thành Tích Nổi Bật (Achievements)</h2>
+<h2>🏆 Thành Tích Nổi Bật (Achievements)</h2>
 <blockquote align="left">
   <p>🥇 <b>Top 1</b> - <i>AI Application Development for Education</i> (Tổ chức bởi ICTU).</p>
   <p>🥈 <b>Top 2</b> - <i>Northern Mountainous Region Startup Competition</i> (Tổ chức bởi Đại học Thái Nguyên).</p>
   <p>🥉 <b>Top 3</b> - <i>OLP'25: Open Source Hackathon</i> (Tổ chức bởi VAIP).</p>
 </blockquote>
 
-<h2 align="center">🚀 Vũ Khí Công Nghệ (Tech Stack)</h2>
+<h2>🚀 Vũ Khí Công Nghệ (Tech Stack)</h2>
 <p align="center">
   <i>Được trang bị những công nghệ hiện đại nhất để biến ý tưởng thành hiện thực.</i>
 </p>
@@ -67,7 +67,7 @@
 </div>
 
 
-📊 Thống Kê Hoạt Động GitHub
+<h2>📊 Thống Kê Hoạt Động GitHub</h2>
 
 <div align="center"
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
@@ -76,7 +76,7 @@
 </div>
 
 <br>
- 📈 Biểu Đồ Hoạt Động
+<h2> 📈 Biểu Đồ Hoạt Động</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haluu07&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
@@ -84,7 +84,7 @@
 
 <br>
 
-🐍 Fun Fact: Commit Snake (Hoạt hình Rắn)
+<h2>🐍 Fun Fact: Commit Snake (Hoạt hình Rắn)</h2>
 
 <div align="center">
   <img src="https://github.com/ThanhTrunggDEV/ThanhTrunggDEV/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />

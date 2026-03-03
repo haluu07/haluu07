@@ -24,6 +24,9 @@
 * 🎯 **Tập trung hiện tại:** Phát triển ứng dụng sử dụng **.Net Core** và **Python**.
 * 💡 **Mục tiêu tiếp theo:** Nghiên cứu chuyên sâu về **Kiến trúc Cloud (AWS/GCP)** và quy trình **DevOps**.
 * 🤝 **Cơ hội hợp tác:** Tôi luôn sẵn lòng thảo luận về các ý tưởng liên quan đến **Tích hợp AI/ML**.
+
+## 👨‍💻Thành Tích (Achievements)
+
   <img width="2560" height="1707" alt="image" src="https://github.com/user-attachments/assets/db052784-55a3-48bc-8a81-d334b76b3127" />
     --------------------------------------------🥉Top 3 OLP'25 - Open Source Hackathon -------------------------------------
 

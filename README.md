@@ -11,75 +11,58 @@
     <img src="https://komarev.com/ghpvc/?username=ThanhTrunggDEV&color=F700FF" alt="Profile Views" />
   </p>
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
-</div>
-
 ---
 
-## 👨‍💻 Về Tôi (About Me)
-
-* Tôi là một **Full-Stack Developer** với đam mê xây dựng các ứng dụng mạnh mẽ và có khả năng mở rộng.
-* 🎯 **Tập trung hiện tại:** Phát triển ứng dụng sử dụng **.Net Core** và **Python**.
-* 💡 **Mục tiêu tiếp theo:** Nghiên cứu chuyên sâu về **Kiến trúc Cloud (AWS/GCP)** và quy trình **DevOps**.
-* 🤝 **Cơ hội hợp tác:** Tôi luôn sẵn lòng thảo luận về các ý tưởng liên quan đến **Tích hợp AI/ML**.
-
+<h2 align="center">👨‍💻 Về Tôi (About Me)</h2>
+<table>
+  <tr>
+    <td width="60%">
+      <p>Xin chào! Mình là <b>Lưu Thế Hà</b>. Mình là một <b>Full-Stack Developer</b> với đam mê xây dựng các nền tảng công nghệ mạnh mẽ, hiệu suất cao và có khả năng mở rộng.</p>
+      <ul>
+        <li>💻 <b>Tập trung hiện tại:</b> Xây dựng Restful APIs và Microservices với <b>.NET Core</b> và <b>Python</b>.</li>
+        <li>☁️ <b>Mục tiêu tiếp theo:</b> Nghiên cứu chuyên sâu về <b>Kiến trúc Cloud (AWS/GCP)</b> và quy trình <b>DevOps/CI-CD</b>.</li>
+        <li>🤖 <b>Đam mê cá nhân:</b> Tìm hiểu và ứng dụng <b>AI/ML</b> vào giải quyết bài toán thực tế.</li>
+        <li>🤝 <b>Cơ hội hợp tác:</b> Luôn cởi mở và sẵn sàng kết nối cùng mọi người trong các dự án công nghệ thú vị!</li>
+      </ul>
+    </td>
+    <td align="center" width="40%">
+      <!-- Hình ảnh minh họa coder đang gõ phím -->
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" alt="Coder GIF" />
+    </td>
+  </tr>
+</table>
 ---
-
-## 🏅Thành Tích (Achievements)
-
-  🥉Top 3 - OLP'25 - Open Source Hackathon by VAIP 
-  <br>
-  🥇Top 1 - AI Application Development for Education by ICTU
-  <br>
-  🥈Top 2 - Northern Mountainous Region Startup Competition by Thai Nguyen University
-
+<h2 align="center">🏆 Thành Tích Nổi Bật (Achievements)</h2>
+<blockquote align="left">
+  <p>🥇 <b>Top 1</b> - <i>AI Application Development for Education</i> (Tổ chức bởi ICTU).</p>
+  <p>🥈 <b>Top 2</b> - <i>Northern Mountainous Region Startup Competition</i> (Tổ chức bởi Đại học Thái Nguyên).</p>
+  <p>🥉 <b>Top 3</b> - <i>OLP'25: Open Source Hackathon</i> (Tổ chức bởi VAIP).</p>
+</blockquote>
 ---
-
-## 🔗 Kết Nối Với Tôi (Connect with Me)
-
+<h2 align="center">🚀 Vũ Khí Công Nghệ (Tech Stack)</h2>
+<p align="center">
+  <i>Được trang bị những công nghệ hiện đại nhất để biến ý tưởng thành hiện thực.</i>
+</p>
+### 🌐 Ngôn Ngữ & Framework (Core & Frameworks)
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
+### ☁️ Đám Mây & Triển Khai (Cloud & DevOps)
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+</p>
+### 🗄️ Cơ Sở Dữ Liệu & Công Cụ (Databases & Tools)
 <div align="center">
-  <a href="https://github.com/haluu07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:hatheluu1007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/l%C6%B0u-h%C3%A0-989946305/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/haluudepzai" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/luuha.05/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman,figma&perline=8" alt="My Skills"/>
 </div>
-
----
-
-## 🛠️ Công Nghệ & Công Cụ
-
-### 🚀 Tech Universe (Ngôn Ngữ & Framework Chính)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</div>
-
-<br>
-
-### 🔧 My Stack & Tools (Kỹ Năng Chi Tiết)
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=js,cs,python,html,css,react,django,fastapi,docker,nginx,mysql,postgres,git,vscode,linux,aws&perline=8" />
-</div>
-
 ---
 
 ## 📊 Thống Kê Hoạt Động GitHub

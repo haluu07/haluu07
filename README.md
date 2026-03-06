@@ -7,7 +7,7 @@
 
   <a href="https://git.io/typing-svg">
     <!-- Hiệu ứng chữ gõ: dùng font Fira Code (chuẩn dân dev), viền ngoài, 2 dải màu gradient cực mượt Xanh Cyan & Tím Đậm -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&alt_color=B026FF&center=true&vCenter=true&width=600&lines=I'm+Luu+The+Ha;Full-Stack+Web+Developer;Crafting+Code,+Creating+Value;Let's+build+something+amazing!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&alt_color=B026FF&center=true&vCenter=true&width=600&lines=I'm+Luu+The+Ha;Full-Stack+Software+Developer;Crafting+Code,+Creating+Value;Let's+build+something+amazing!" alt="Typing SVG" />
   </a>
   
   <br><br>

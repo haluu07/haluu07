@@ -1,17 +1,10 @@
 <div align="center">
-  <!-- Ảnh bìa trong suốt nhưng chữ được làm đậm, có viền nét mờ (stroke) để nổi trên mọi nền. 
-       Màu gradient 'timeGradient' đổi màu liên tục theo thời gian thực -->
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Welcome%20To%20My%20Space%20✨&fontSize=65&fontColor=ffffff&stroke=000000&strokeWidth=2&animation=fadeIn" alt="Header Text" />
-  
   <br>
-
   <a href="https://git.io/typing-svg">
-    <!-- Hiệu ứng chữ gõ: dùng font Fira Code (chuẩn dân dev), viền ngoài, 2 dải màu gradient cực mượt Xanh Cyan & Tím Đậm -->
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&alt_color=B026FF&center=true&vCenter=true&width=600&lines=I'm+Luu+The+Ha;Full-Stack+Software+Developer;Crafting+Code,+Creating+Value;Let's+build+something+amazing!" alt="Typing SVG" />
   </a>
-  
   <br><br>
-
   <p>
     <a href="https://github.com/haluu07">
       <img src="https://komarev.com/ghpvc/?username=ThanhTrunggDEV&label=Profile%20Views&color=ff69b4&style=plastic" alt="Profile Views" />
@@ -21,7 +14,7 @@
 
 <h2>🔬 Bài Báo Nghiên Cứu Nổi Bật (Featured Research)</h2>
 <ul>
-  <li>📄 <b><a href="Culturally-Constrained%20AI%20Generation%20of%20Hmong%20Ethnic%20Patterns.pdf" target="_blank">Culturally-Constrained AI Generation of Hmong Ethnic Patterns</a></b> - <i>Hội thảo khoa học CITA 2026</i></li>
+  <li>📄 <b><a href="CITA2026_Paper.pdf" target="_blank">Culturally-Constrained AI Generation of Hmong Ethnic Patterns</a></b> - <i>Hội thảo khoa học CITA 2026</i></li>
 </ul>
 
 <h2>👨‍💻 Về Tôi (About Me)</h2>
@@ -37,7 +30,6 @@
       </ul>
     </td>
     <td align="center" width="40%">
-      <!-- Hình ảnh minh họa coder đang gõ phím -->
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" alt="Coder GIF" />
     </td>
   </tr>

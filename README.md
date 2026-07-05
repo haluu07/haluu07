@@ -13,15 +13,29 @@
   <br><br>
 
   <p>
-     <p>
     <a href="https://github.com/haluu07">
       <img src="https://komarev.com/ghpvc/?username=ThanhTrunggDEV&label=Profile%20Views&color=ff69b4&style=plastic" alt="Profile Views" />
     </a>
   </p>
 </div>
-</div>
 
 
+<h2>🔬 Bài Báo Nghiên Cứu Nổi Bật (Featured Research)</h2>
+<table>
+  <tr>
+    <td width="100%">
+      <h3><a href="https://github.com/ThanhTrungDEV/GenAI" target="_blank">Culturally-Constrained AI Generation of Hmong Ethnic Patterns</a></h3>
+      <p><b>Hội thảo khoa học:</b> CITA 2026 | <b>Mục tiêu:</b> Digital Heritage Preservation</p>
+      <p>Dự án xây dựng khuôn khổ AI tạo sinh (sử dụng <b>Stable Diffusion v1.5</b> kết hợp <b>LoRA</b>) có khả năng nhận thức và tuân thủ các ràng buộc văn hóa, nhằm bảo tồn và tái tạo chính xác họa tiết dân tộc H'Mông. Đề xuất hệ thống quy trình 3 giai đoạn tích hợp các hàm mất mát tùy chỉnh và cơ chế xác thực đa tầng.</p>
+      <p>
+        <a href="https://github.com/ThanhTrungDEV/GenAI" target="_blank">
+          <img src="https://img.shields.io/badge/Mã_Nguồn_Mở-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+        </a>
+        <img src="https://img.shields.io/badge/Công_Nghệ-GenAI_%7C_Computer_Vision-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI Technology">
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h2>👨‍💻 Về Tôi (About Me)</h2>
 <table>
@@ -53,7 +67,7 @@
 <p align="center">
   <i>Được trang bị những công nghệ hiện đại nhất để biến ý tưởng thành hiện thực.</i>
 </p>
-🌐 Ngôn Ngữ & Framework (Core & Frameworks)
+<p align="center"><b>🌐 Ngôn Ngữ & Framework (Core & Frameworks)</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
@@ -62,22 +76,23 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
-☁️ Đám Mây & Triển Khai (Cloud & DevOps)
+
+<p align="center"><b>☁️ Đám Mây & Triển Khai (Cloud & DevOps)</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
 </p>
-🗄️ Cơ Sở Dữ Liệu & Công Cụ (Databases & Tools)
+
+<p align="center"><b>🗄️ Cơ Sở Dữ Liệu & Công Cụ (Databases & Tools)</b></p>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman,figma&perline=8" alt="My Skills"/>
 </div>
 
-
 <h2>📊 Thống Kê Hoạt Động GitHub</h2>
 
-<div align="center"
+<div align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=ThanhTrunggDEV&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" alt="GitHub Streak"/>
   </a>
@@ -97,7 +112,6 @@
 <div align="center">
   <img src="https://github.com/ThanhTrunggDEV/ThanhTrunggDEV/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
-
 
 <div align="center">
   <br>

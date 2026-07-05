@@ -19,8 +19,33 @@
   </p>
 </div>
 
-
-
+<h2>🔬 Bài Báo Nghiên Cứu Nổi Bật (Featured Research)</h2>
+<table>
+  <tr>
+    <!-- Cột trái: Ảnh minh họa bìa bài báo -->
+    <td width="30%" align="center" valign="middle">
+      <a href="Culturally-Constrained%20AI%20Generation%20of%20Hmong%20Ethnic%20Patterns.pdf" target="_blank">
+        <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=400&auto=format&fit=crop" alt="Paper Cover" width="100%" style="border-radius: 8px;" />
+      </a>
+    </td>
+    
+    <!-- Cột phải: Thông tin chi tiết -->
+    <td width="70%" valign="top">
+      <h3><a href="Culturally-Constrained%20AI%20Generation%20of%20Hmong%20Ethnic%20Patterns.pdf" target="_blank">Culturally-Constrained AI Generation of Hmong Ethnic Patterns</a></h3>
+      <p><b>Hội thảo khoa học:</b> CITA 2026 | <b>Mục tiêu:</b> Digital Heritage Preservation</p>
+      <p>Dự án xây dựng khuôn khổ AI tạo sinh (sử dụng <b>Stable Diffusion v1.5</b> kết hợp <b>LoRA</b>) có khả năng nhận thức và tuân thủ các ràng buộc văn hóa, nhằm bảo tồn và tái tạo chính xác họa tiết dân tộc H'Mông. Đề xuất hệ thống quy trình 3 giai đoạn tích hợp các hàm mất mát tùy chỉnh và cơ chế xác thực đa tầng.</p>
+      <p>
+        <a href="https://github.com/ThanhTrungDEV/GenAI" target="_blank">
+          <img src="https://img.shields.io/badge/Mã_Nguồn_Mở-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+        </a>
+        <a href="Culturally-Constrained%20AI%20Generation%20of%20Hmong%20Ethnic%20Patterns.pdf" target="_blank">
+          <img src="https://img.shields.io/badge/Đọc_Bài_Báo-PDF-E34F26?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF">
+        </a>
+        <img src="https://img.shields.io/badge/Công_Nghệ-GenAI_%7C_Computer_Vision-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI Technology">
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h2>👨‍💻 Về Tôi (About Me)</h2>
 <table>
@@ -70,7 +95,7 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
 </p>
 
-<p align="center"><b>🗄️ Cơ Sở Dữ Liệu & Công Cụ (Databases & Tools)</b></p>
+<p align="center"><b>🗄️ Cơ Sở Dữ Tại & Công Cụ (Databases & Tools)</b></p>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman,figma&perline=8" alt="My Skills"/>
 </div>

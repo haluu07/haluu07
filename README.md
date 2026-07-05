@@ -12,7 +12,7 @@
   </p>
 </div>
 
-<h2>🔬 Bài Báo Nghiên Cứu Nổi Bật (Featured Research)</h2>
+<h2>🔬 Bài Báo Nghiên Cứu (Featured Research)</h2>
 <ul>
   <li>📄 <b><a href="CITA2026_Paper.pdf" target="_blank">Culturally-Constrained AI Generation of Hmong Ethnic Patterns</a></b> - <i>Hội thảo khoa học CITA 2026</i></li>
   <li>📄 <b><a href="AWRIS.pdf" target="_blank">Preserving Textile Heritage: A LoRA-Guided Generative AI Approach with Cultural Constraints</a></b> - <i>AWRIS 2026 (The 3rd ACIR Workshop of Research and Innovation for Students)</i></li>

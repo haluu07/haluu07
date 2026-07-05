@@ -23,10 +23,27 @@
 <h2>🔬 Bài Báo Nghiên Cứu Nổi Bật (Featured Research)</h2>
 <table>
   <tr>
-    <td width="100%">
-      <h3><a href="https://github.com/ThanhTrungDEV/GenAI" target="_blank">Culturally-Constrained AI Generation of Hmong Ethnic Patterns</a></h3>
+    <!-- Cột trái: Ảnh bìa của file PDF (Click vào sẽ mở PDF) -->
+    <td width="30%" align="center" valign="middle">
+      <a href="LINK_FILE_PDF_CUA_ANH" target="_blank">
+        <img src="LINK_ANH_BIA_CUA_ANH" alt="Paper Cover" width="100%" style="border-radius: 8px;" />
+      </a>
+    </td>
+    
+    <!-- Cột phải: Thông tin chi tiết -->
+    <td width="70%" valign="top">
+      <h3><a href="LINK_FILE_PDF_CUA_ANH" target="_blank">Culturally-Constrained AI Generation of Hmong Ethnic Patterns</a></h3>
       <p><b>Hội thảo khoa học:</b> CITA 2026 | <b>Mục tiêu:</b> Digital Heritage Preservation</p>
       <p>Dự án xây dựng khuôn khổ AI tạo sinh (sử dụng <b>Stable Diffusion v1.5</b> kết hợp <b>LoRA</b>) có khả năng nhận thức và tuân thủ các ràng buộc văn hóa, nhằm bảo tồn và tái tạo chính xác họa tiết dân tộc H'Mông. Đề xuất hệ thống quy trình 3 giai đoạn tích hợp các hàm mất mát tùy chỉnh và cơ chế xác thực đa tầng.</p>
+      <p>
+        <a href="https://github.com/ThanhTrungDEV/GenAI" target="_blank">
+          <img src="https://img.shields.io/badge/Mã_Nguồn_Mở-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+        </a>
+        <a href="LINK_FILE_PDF_CUA_ANH" target="_blank">
+          <img src="https://img.shields.io/badge/Đọc_Bài_Báo-PDF-E34F26?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF">
+        </a>
+        <img src="https://img.shields.io/badge/Công_Nghệ-GenAI_%7C_Computer_Vision-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI Technology">
+      </p>
     </td>
   </tr>
 </table>
